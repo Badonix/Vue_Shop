@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "White Lighthouse",
+        "desc": "big white lighthouse standing on island",
+        "price": 320,
+        "url": "https://images.pexels.com/photos/1459505/pexels-photo-1459505.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 2,
+        "title": "Boat",
+        "desc": "nice boat floating in lake",
+        "price": 1,
+        "url": "https://images.unsplash.com/photo-1544376798-89aa6b82c6cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dmVydGljYWwlMjBsYW5kc2NhcGV8ZW58MHx8MHx8&w=1000&q=80"
+    },
+    {
+        "id": 3,
+        "title": "Island",
+        "desc": "Island in pacific ocean",
+        "price": 6520000,
+        "url": "https://avatars.mds.yandex.net/i?id=84dbd50839c3d640ebfc0de20994c30d-4473719-images-taas-consumers&n=27&h=480&w=480"
+    },
+    {
+        "id": 4,
+        "title": "Sunset",
+        "desc": "just sunset",
+        "price": 32,
+        "url": "https://images.freeimages.com/images/small-previews/047/headed-down-1400175.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Happy guy",
+        "desc": "happy guy drowns in sea with firework in hand",
+        "price": 99,
+        "url": "https://blog-fr.orson.io/wp-content/uploads/2017/06/jpeg-ou-png.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Yellow pipe",
+        "desc": "simple yellow something",
+        "price": 10,
+        "url": "https://static.vecteezy.com/packs/media/components/global/search-explore-nav/img/vectors/term-bg-1-666de2d941529c25aa511dc18d727160.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Neo",
+        "desc": "guy with blue light",
+        "price": 404,
+        "url": "https://www.pixsy.com/wp-content/uploads/2021/04/ben-sweet-2LowviVHZ-E-unsplash-1.jpeg"
+    },
+    {
+        "id": 8,
+        "title": "Man and Moon",
+        "desc": "just bald man watching moon",
+        "price": 80,
+        "url": "https://us.123rf.com/450wm/adrenalinapura/adrenalinapura1710/adrenalinapura171000121/88128220-man-look-the-moon.jpg?ver=6"
+    },
+    {
+        "id": 9,
+        "title": "Tiger",
+        "desc": "tiger laying on grass waiting for dinner",
+        "price": 600,
+        "url": "https://h5p.org/sites/default/files/h5p/content/1209180/images/file-6113d5f8845dc.jpeg"
+    },
+    {
+        "id": 10,
+        "title": "Phone",
+        "desc": "just phone in dark",
+        "price": 12,
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202102/photo-1591467454366-fb32b72b20_0_1200x768.jpeg?rIFmopHVKgN0Aco4MvdAA.BynLMD_I2_&size=770:433"
+    }
+]
